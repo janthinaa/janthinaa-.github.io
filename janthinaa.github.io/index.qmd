@@ -2,10 +2,17 @@
 title: "janthinaa.github.io"
 ---
 
-This is a Quarto website.
+# About 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+hi ! I'm Janthina. The dataset that I have chosen is on Walt Disney Movies.
+
+Here is the link to the dataset that I have chosen: <https://www.kaggle.com/datasets/dikshabhati2002/walt-disney-movies>
+
+```         
+```
 
 ```{r}
-1 + 1
+
+knitr::asis_output('<iframe height="400" width="100%" frameborder="no" src="https://janthina.shinyapps.io/MyShinyApp/"> </iframe>')
+
 ```
